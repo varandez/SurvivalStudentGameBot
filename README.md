@@ -65,7 +65,6 @@ python bot.py
 - SurvivalStudentGameBot
 - - bot.py # Основной игровой движок
 - - requirements.txt # Зависимости Python
-- - .htaccess # Конфиг для веб-сервера
 - - lincese # Лицензия MIT
 - - README.md # Документация
 
